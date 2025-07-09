@@ -68,6 +68,12 @@ section {
 
 }
 
+img {
+  width: 100%;
+  max-width: 200px; /* atur ukuran maksimal sesuai kebutuhan */
+  height: auto;
+  display: block;
+}
 
  
 
